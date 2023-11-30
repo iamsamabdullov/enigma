@@ -1,3 +1,4 @@
+#This program is a fairly simple enigma with 3 rotors and one reflector.
 def enigma(text, ref, rot1, rot2, rot3):
 
     alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
